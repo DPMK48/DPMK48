@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with react
 - 💬 Ask me about anything in web🤩
 - 📫 How to reach me: @dorathy_pmk
-- 😄 Pronouns: Her/She
 - ⚡ Fun fact: 🤔anything that makes me laugh.
 - 💻 Skills: HTML, CSS SASS, vanillaJS, nodeJS
