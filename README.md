@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Dorathy Paul
 
-<!--
 **DPMK48/DPMK48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: 🤔anything that makes me laugh.
 - 💻 Skills: HTML, CSS SASS, vanillaJS, nodeJS
--->
