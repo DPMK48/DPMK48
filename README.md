@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Dorathy Paul
 
-**DPMK48/DPMK48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a collaborator on PPT.
 - 🌱 I’m currently learning nodeJS
 - 👯 I’m looking to collaborate on backend projects with nodeJS
